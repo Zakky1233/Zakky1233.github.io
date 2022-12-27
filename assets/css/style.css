@@ -1186,7 +1186,8 @@ section {
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #34b7a7;
-  color: #fff;
+  color: #34b7a7;
+;
 }
 
 .contact .php-email-form {
